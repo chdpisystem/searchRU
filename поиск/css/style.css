@@ -259,7 +259,7 @@ nav.navbar{
             width: 200px;
             height: 100%;
             display: flex;
-            justify-content: center;
+            justify-content: flex-end;
             align-items: center;
         }
     }
@@ -298,7 +298,6 @@ nav.navbar{
             width: 200px;
             height: 100%;
             display: flex;
-            justify-content: center;
             align-items: center;
         }
     }
@@ -472,12 +471,12 @@ nav.navbar{
     z-index: 3;
     padding-left: 12px;
 }
-.center__side{
+/* .center__side{
     width: 200px;
     height: 100%;
     justify-content: center;
     align-items: center;
-}
+} */
 .left__side{
     width: 200px;
     height: 100%;
