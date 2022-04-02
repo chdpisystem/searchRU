@@ -388,7 +388,7 @@
       }
       .selectlink {			
         position: absolute;
-        width: 280px;
+        width: 245px;
         max-width: 500px;
         justify-content: center;
         text-align: left;
@@ -417,7 +417,7 @@
           margin: 0;
           padding: 0;
           width: 100%;
-          max-width: 218px;
+          max-width: 226px;
           position: absolute;
           top: 100%;
           left: 0px; 
