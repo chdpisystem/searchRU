@@ -3,7 +3,7 @@
     section.section__1{
       width: 100%;
       height: calc(100vh - 130px);
-      background: #231f20;
+      background: rgb(28, 66, 148);
       display: flex;
       justify-content: center;
       align-items: center;
@@ -203,7 +203,7 @@
       section.section__1{
         width: 100%;
         height:  calc(100vh - 130px);
-        background: #231f20;
+        background: rgb(28, 66, 148);
         display: flex;
         justify-content: center;
         align-items: center;
@@ -381,7 +381,7 @@
       section.section__1{
         width: 100%;
         height:  calc(100vh - 130px);
-        background: #231f20;
+        background: rgb(28, 66, 148);
         display: flex;
         justify-content: center;
         align-items: center;
